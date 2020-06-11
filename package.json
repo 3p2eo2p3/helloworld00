@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "dependencies": {
   },
+  "scripts": {
+    "start": "npm run develop",
+  },
   "engines": {
     "node": "12.16.1",
     "npm": "6.13.4"
