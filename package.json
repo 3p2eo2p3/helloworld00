@@ -4,7 +4,7 @@
   "dependencies": {
   },
   "scripts": {
-    "start": "npm run develop",
+    "start": "npm run develop"
   },
   "engines": {
     "node": "12.16.1",
